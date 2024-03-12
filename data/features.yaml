@@ -1,0 +1,75 @@
+about:
+  name: Daniel Sun, Yu
+  tagline: Full-Stack Software Engineer
+  phone: "65-9125 9581"
+  email: daniel.sun.yu@foxmail.com
+  links:
+    - title: /in/mertbakir
+      url: https://tr.linkedin.com/in/mertbakir
+      icon: fab fa-linkedin
+    - title: mertbakir
+      url: https://gitlab.com/mertbakir/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    Having a decade-long experience in tech industry, I worked as Software Engineer at various tech firms including startup and multi-national tech company like Alibaba, Lazada and Grab.
+
+    I have rich experience in Java/Kotlin and specialize in building sophisticated backend systems with Spring Boot.
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - Grafana - Kibana - PowerBI
+      - InfluxDB - TICK Stack
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - R - SQL
+      - Excel - Minitab - SPSS
+      - GAMS - PuLP - OR Tools
+
+  - groupName: Programming & Systems
+    list:
+      - C# - Git - Docker - NGINX
+      - Linux - CentOS RHEL
+
+languages:
+  - name: Chinese
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+      - "Duolingo English Test: 145"
+      - "TOEFL: 103 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/
